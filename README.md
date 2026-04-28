@@ -105,7 +105,7 @@ var TRAVEL_SEC = 50;   // CSS ile senkron tutun
 Kalbin ortasinda gorunen isim `index.html` icerisinde belirlenir:
 
 ```html
-<span class="brand-kitty">Asya</span>
+<span class="brand-kitty">Oğuz</span>
 ```
 
 ---
